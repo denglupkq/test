@@ -1,0 +1,9 @@
+.index{
+	width: 90%;
+	height: 800px;
+	border: red 1px solid;
+	margin: 0px auto;
+}
+.src ul li{
+	list-style: none;
+}
